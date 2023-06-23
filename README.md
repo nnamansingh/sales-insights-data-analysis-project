@@ -2,6 +2,7 @@
 I have made this project by watching Dhaval Patel's youtube video  and used the resource given by him.
 
 Here are the things i have gained from this project:-
+
 1️⃣ Viewed total sales figures, gaining insights into the overall performance.
 
 2️⃣ Analyzed sales by quantity, identifying patterns and trends.
